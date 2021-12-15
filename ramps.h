@@ -1,9 +1,3 @@
-/* 
- * File:   ramps.h
- * Author: arsi
- *
- * Created on September 1, 2014, 4:44 PM
- */
 #ifndef RAMPS_H
 #define	RAMPS_H
 
@@ -174,4 +168,3 @@ extern "C" {
 #endif
 
 #endif	/* RAMPS_H */
-

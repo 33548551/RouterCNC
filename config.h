@@ -1,13 +1,6 @@
-// This file contains compile-time configurations for Grbl's internal system. For the most part,
-// users will not need to directly modify these, but they are here for specific needs, i.e.
-// performance tuning or adjusting to non-typical machines.
-
-// IMPORTANT: Any changes here requires a full re-compiling of the source code to propagate them.
-
 #ifndef config_h
 #define config_h
 #include "system.h"
-
 
 
 // Default settings. Used when resetting EEPROM. Change to desired name in defaults.h

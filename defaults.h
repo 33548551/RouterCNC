@@ -1,4 +1,3 @@
-
 #ifndef defaults_h
 #define defaults_h
 

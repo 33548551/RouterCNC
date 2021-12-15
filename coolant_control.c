@@ -1,4 +1,3 @@
-
 #include "system.h"
 #include "coolant_control.h"
 #include "protocol.h"
